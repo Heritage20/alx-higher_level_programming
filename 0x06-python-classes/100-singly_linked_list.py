@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""defines a class called Node"""
 
 
 class Node:
